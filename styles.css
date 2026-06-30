@@ -293,7 +293,7 @@ h3 {
 .portrait-frame img {
   display: block;
   width: 100%;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 906 / 1100;
   object-fit: cover;
   object-position: center;
   border: 1px solid rgba(241, 232, 215, 0.18);
@@ -648,7 +648,7 @@ blockquote {
   }
 
   .portrait-frame {
-    width: min(100%, 360px);
+    width: min(100%, 340px);
     margin-inline: auto;
   }
 
