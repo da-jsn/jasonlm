@@ -509,6 +509,12 @@ blockquote {
   margin-inline: auto;
 }
 
+.donation .small {
+  max-width: 720px;
+  margin: 1.5rem auto 0;
+  text-align: center;
+}
+
 .money {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
